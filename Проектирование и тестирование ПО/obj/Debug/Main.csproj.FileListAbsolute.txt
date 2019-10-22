@@ -1,0 +1,12 @@
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.exe.config
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.exe
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\ClassLibrary1.dll
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\ClassLibrary1.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Form1.resources
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Properties.Resources.resources
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование и тестирование ПО.exe
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование и тестирование ПО.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Form2.resources

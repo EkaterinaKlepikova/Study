@@ -1,0 +1,22 @@
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\airTour.csprojResolveAssemblyReference.cache
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Form1.resources
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Properties.Resources.resources
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\airTour.csproj.GenerateResource.Cache
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.exe.config
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.exe
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.pdb
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\ClassLibrary1.dll
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\ClassLibrary1.pdb
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование и тестирование ПО.exe
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование и тестирование ПО.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.exe.config
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.exe
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\Проектирование и тестирование ПО.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\ClassLibrary1.dll
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\bin\Debug\ClassLibrary1.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\AirTour.csprojResolveAssemblyReference.cache
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Form1.resources
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование_и_тестирование_ПО.Properties.Resources.resources
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\AirTour.csproj.GenerateResource.Cache
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование и тестирование ПО.exe
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\Проектирование и тестирование ПО\obj\Debug\Проектирование и тестирование ПО.pdb

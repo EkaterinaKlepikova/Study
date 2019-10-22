@@ -1,0 +1,10 @@
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\ClassLibrary1\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\klepk\documents\visual studio 2017\Projects\Проектирование и тестирование ПО\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\ClassLibrary1\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\klepk\Desktop\Проектирование и тестирование ПО\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
