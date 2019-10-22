@@ -9,7 +9,7 @@ namespace ClassLibrary1
 {
     public class Manager : BL.Person
     {
-
+        private String test = "Это тестовая переменная созданная в октябре 2019 года, для гитхаба";
         private int countSdelka = 0;
         private double summDetail = 0.0;
         private double okladMin = 0.0;
