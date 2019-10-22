@@ -10,7 +10,7 @@ namespace BL
     {
         private String FIO = ""; // ТАК НЕ ДОЛЖНО БЫТЬ, НУЖНО РАЗДЕЛИТЬ НА ОТДЕЛЬНЫЕ ФАМИЛИЯ, ИМЯ И ОТЧЕСТВО
 
-
+        private int TESTING = 231019;
         public int id = 0; //код
         public string surname = ""; //фамилия
         public string name = ""; // имя
