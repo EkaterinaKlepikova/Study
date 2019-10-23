@@ -8,7 +8,9 @@ namespace ClassLibrary1
 {
    public class Worker : BL.Person
     {
-
+    private double Test=100 //Тестовая переменная!
+        private String test = "Тестовая переменная!";
+         
         private int countDetail = 0;
         private int countPerson = 0;
         private int Razr = 0;
