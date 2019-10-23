@@ -9,7 +9,7 @@ namespace ClassLibrary1
 {
     public class Manager : BL.Person
     {
-        private double Test=100 //Тестовая переменная!
+        private double Test=100 //Тестовая переменная
         private String test = "Это тестовая переменная созданная в октябре 2019 года, для гитхаба";
         private int countSdelka = 0;
         private double summDetail = 0.0;
@@ -25,7 +25,7 @@ namespace ClassLibrary1
             this.okladMin = okladMin;
             this.id = id;
             this.surname = surname;
-            this.name = name;
+            this.name = name;//Имя работника
             this.secondName = secondName;
         }
         public double Calc(int countSdelka, double summDetail, double okladMin)
