@@ -9,6 +9,8 @@ namespace ClassLibrary1
 {
     public class Manager : BL.Person
     {
+    private double testperemennaya=100 //Тестовая переменная!
+        private String testperemennaya = "Тестовая переменная!";
         private double Test=100 //Тестовая переменная
         private String test = "Это тестовая переменная созданная в октябре 2019 года, для гитхаба";
         private int countSdelka = 0;
